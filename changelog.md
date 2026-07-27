@@ -10,7 +10,9 @@ The format is based on Keep a Changelog, and this project adheres to Semantic Ve
 - Initial repository creation
 - Full protocol text committed to README.md
 - Standard project structure scaffolding (docs/, src/, tests/, prompts/, research/, architecture/, examples/, history/)
+- Canonical protocol definition placed in prompts/github-artifact-repository-protocol.md
 
 ### Notes
 - Protocol activated as the durable archive for conversation artifacts.
 - First artifact: the protocol definition itself.
+- Repository ready for ongoing artifact preservation across conversations.
